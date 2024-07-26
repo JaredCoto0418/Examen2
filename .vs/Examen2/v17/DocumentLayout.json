@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85CC9F17-35F7-41DA-A54E-998276C8EDE7}|Examen2.csproj|c:\\users\\jared coto\\desktop\\examenpoo - u2\\examen2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CC9F17-35F7-41DA-A54E-998276C8EDE7}|Examen2.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CC9F17-35F7-41DA-A54E-998276C8EDE7}|Examen2.csproj|c:\\users\\jared coto\\desktop\\examenpoo - u2\\examen2\\database\\prospectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CC9F17-35F7-41DA-A54E-998276C8EDE7}|Examen2.csproj|solutionrelative:database\\prospectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CC9F17-35F7-41DA-A54E-998276C8EDE7}|Examen2.csproj|c:\\users\\jared coto\\desktop\\examenpoo - u2\\examen2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85CC9F17-35F7-41DA-A54E-998276C8EDE7}|Examen2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CC9F17-35F7-41DA-A54E-998276C8EDE7}|Examen2.csproj|c:\\users\\jared coto\\desktop\\examenpoo - u2\\examen2\\dto\\prestamo_respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CC9F17-35F7-41DA-A54E-998276C8EDE7}|Examen2.csproj|solutionrelative:dto\\prestamo_respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CC9F17-35F7-41DA-A54E-998276C8EDE7}|Examen2.csproj|c:\\users\\jared coto\\desktop\\examenpoo - u2\\examen2\\dto\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CC9F17-35F7-41DA-A54E-998276C8EDE7}|Examen2.csproj|solutionrelative:dto\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CC9F17-35F7-41DA-A54E-998276C8EDE7}|Examen2.csproj|c:\\users\\jared coto\\desktop\\examenpoo - u2\\examen2\\examen2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85CC9F17-35F7-41DA-A54E-998276C8EDE7}|Examen2.csproj|solutionrelative:examen2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CC9F17-35F7-41DA-A54E-998276C8EDE7}|Examen2.csproj|c:\\users\\jared coto\\desktop\\examenpoo - u2\\examen2\\database\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CC9F17-35F7-41DA-A54E-998276C8EDE7}|Examen2.csproj|solutionrelative:database\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CC9F17-35F7-41DA-A54E-998276C8EDE7}|Examen2.csproj|c:\\users\\jared coto\\desktop\\examenpoo - u2\\examen2\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CC9F17-35F7-41DA-A54E-998276C8EDE7}|Examen2.csproj|solutionrelative:controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +42,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:41:51.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "prospectos.cs",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\DataBase\\prospectos.cs",
+              "RelativeDocumentMoniker": "DataBase\\prospectos.cs",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\DataBase\\prospectos.cs",
+              "RelativeToolTip": "DataBase\\prospectos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:41:49.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "prestamo_respuesta.cs",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\Dto\\prestamo_respuesta.cs",
+              "RelativeDocumentMoniker": "Dto\\prestamo_respuesta.cs",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\Dto\\prestamo_respuesta.cs",
+              "RelativeToolTip": "Dto\\prestamo_respuesta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:28:29.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prestamos.cs",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\Dto\\Prestamos.cs",
+              "RelativeDocumentMoniker": "Dto\\Prestamos.cs",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\Dto\\Prestamos.cs",
+              "RelativeToolTip": "Dto\\Prestamos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:27:21.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T23:23:45.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContextDB.cs",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\DataBase\\ContextDB.cs",
+              "RelativeDocumentMoniker": "DataBase\\ContextDB.cs",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\DataBase\\ContextDB.cs",
+              "RelativeToolTip": "DataBase\\ContextDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:21:57.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrestamosController.cs",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\Controllers\\PrestamosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PrestamosController.cs",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\Controllers\\PrestamosController.cs",
+              "RelativeToolTip": "Controllers\\PrestamosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:20:13.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Examen2",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\Examen2.csproj",
+              "RelativeDocumentMoniker": "Examen2.csproj",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\ExamenPOO - U2\\Examen2\\Examen2.csproj",
+              "RelativeToolTip": "Examen2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T23:10:44.74Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
