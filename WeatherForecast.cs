@@ -2,7 +2,7 @@ namespace Examen2
 {
     public class WeatherForecast
     {
-        public DateOnly  { get; set; }
+        public DateOnly Date { get; set; }
 
         public int TemperatureC { get; set; }
 
